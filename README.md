@@ -1,4 +1,4 @@
-# Sephora
+# Sephora - HappyShop
 
 
 Heads up to run the application. 
