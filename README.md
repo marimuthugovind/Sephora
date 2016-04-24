@@ -4,6 +4,7 @@
 Heads up to run the application. 
 
 Download the zip file or clone into your mac book
+
 Run the application
 
 
